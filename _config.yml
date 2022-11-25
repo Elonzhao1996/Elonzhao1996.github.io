@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Jianzhuang Zhao"
 title_separator          : "-"
 name                     : &name "Jianzhuang Zhao"
-description              : &description "personal description"
+description              : &description "Ph.D candidate at Italian Institute of Technology (IIT)"
 url                      : https://elonzhao1996.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "Elonzhao1996/Elonzhao1996.github.io"
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Your Sidebar Name"
+  name             : "Jianzhuang Zhao"
   avatar           : "profile.png"
-  bio              : "Your biography for the left-hand sidebar"
-  location         : "Location"
+  bio              : "Ph.D candidate at Italian Institute of Technology (IIT)"
+  location         : "Genova, Italy"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "http://yourfullgooglescholarurl.com"
-  email            :
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  googlescholar    : "https://scholar.google.com/citations?user=CAym0BwAAAAJ&hl=en"
+  email            : "jianzhuang.zhao@iit.it"
+  researchgate     : "https://www.researchgate.net/profile/Jianzhuang-Zhao"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,8 +102,8 @@ author:
   instagram        :
   impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         :
-  orcid            : "http://orcid.org/yourorcidurl"
+  linkedin         : "https://www.linkedin.com/in/jianzhuang-gian-zhao-bb0a2b1b9/"
+  orcid            : "https://orcid.org/my-orcid?orcid=0000-0003-0860-4768"
   pinterest        :
   soundcloud       :
   stackoverflow    : # http://stackoverflow.com/users/123456/username
