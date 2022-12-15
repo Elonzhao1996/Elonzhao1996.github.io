@@ -85,7 +85,7 @@ author:
   bio              : "Ph.D candidate at Italian Institute of Technology (IIT)"
   location         : "Genova, Italy"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?user=CAym0BwAAAAJ&hl=en"
   email            : "jianzhuang.zhao@iit.it"
   researchgate     : "https://www.researchgate.net/profile/Jianzhuang-Zhao"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "replacethistwitterhandle"
+  twitter          :
   vine             :
   weibo            :
   xing             :
